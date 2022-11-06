@@ -1,0 +1,11 @@
+POST ----> {{_endpoint}}/services/data/v{{version}}/sobjects/:SOBJECT_API_NAME
+
+Body ------> 
+
+{
+    "Name": "Postman Created Account",
+    "Description":"Postman has created this account"
+}
+
+
+
