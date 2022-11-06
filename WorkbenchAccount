@@ -1,0 +1,8 @@
+-------Rest Explorer
+
+/services/data/v56.0/sobjects/Account
+
+{
+    "Name": "Workbench Created Account",
+    "Description":"Workbench has created this account"
+}
